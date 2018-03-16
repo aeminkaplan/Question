@@ -105,7 +105,6 @@ namespace ConsoleApplication1
                 Console.WriteLine(counts[i] + "\t" + songPlayerCounts[counts[i]]);
             }
 
-            while (true) ;
         }
     }
 }
